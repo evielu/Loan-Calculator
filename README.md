@@ -54,9 +54,9 @@ d. For how long drop down, when vehicle is set to New
 - Verify the drop menu can be clicked
 - Verify 48 months can be selected and changes in the drop down display
 - Verify 36 months can be selected and changes in the drop down display
-- Verify 72 months can be selected and changes the drop down display
-- Verify 60 months can be selected (when it is not the default) and the changes the drop down display
--- Verify estimated monthly payment is adjusted based on selected value
+- Verify 72 months can be selected and changes in the drop down display
+- Verify 60 months can be selected (when it is not the default) and the changes in the drop down display
+- Verify estimated monthly payment is adjusted based on selected value
 
 e. Interest rate field
 - Verify number between 1 and 98 can be inputted
@@ -75,10 +75,11 @@ g. Information Tool tips
 h. Compare Loan Rates Link
 - Verify clicking on this button brings you to a new page
 
-i. amortization schedule link
+i. Amortization schedule link
 - Verify clicking on this link brings up a new section in the same page
 - Verify link is changed to “Hide amortization schedule”
 - Verify clicking “Hide amortization schedule” hides the schedule and link now says “see amortization schedule” 
+
 
 
 
